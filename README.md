@@ -1,14 +1,17 @@
 WBTC-Website Using PhP
 ==============
 
+![Desktop-View-1](https://github.com/SohelJoe/PhP-WBTC-Website/blob/master/images/WBTC-Website.PNG)
 
+![Desktop-View-2](https://github.com/SohelJoe/PhP-WBTC-Website/blob/master/images/WBTC-Website1.PNG)
 
 
 Installation
 ------------
+
 First, you will need to install [XAMPP](https://www.apachefriends.org/index.html) following the instructions on their site.
 
-Then, you have to download the [contents of this repository](https://github.com/TiendaNube/sample-php-app/archive/master.zip) and extract it in `xampp\htdocs` folder.
+Then, you have to download the [contents of this repository](https://github.com/SohelJoe/PhP-WBTC-Website/archive/master.zip) and extract it in `xampp\htdocs` folder.
 
 Configuration
 -------------
